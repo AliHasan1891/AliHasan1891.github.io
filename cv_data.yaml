@@ -111,10 +111,10 @@ education:
   - degree: DevOps Engineer
     institution: Nackademin
     relevant_courses: >-
-      - Programming (Python, Java)
-      - Object-Oriented Programming (Python, Java)
-      - Automation: CI/CD, Pipelines, Azure DevOps, Jenkins, Ansible, Terraform
-      - Infrastructure: Microsoft Azure, Kubernetes, Docker, Windows Server, Linux, Active Directory
-      - Networking & Security: IT Security & Vulnerability Analysis, LAN
-      - Databases: Microsoft SQL Server
-      - Agile & Collaboration: Scrum, Agile Methodologies, Jira, Confluence 
+      Programming (Python, Java) |
+      Object-Oriented Programming (Python, Java) |
+      Automation: CI/CD, Pipelines, Azure DevOps, Jenkins, Ansible, Terraform |
+      Infrastructure: Microsoft Azure, Kubernetes, Docker, Windows Server, Linux, Active Directory |
+      Networking & Security: IT Security & Vulnerability Analysis, LAN |
+      Databases: Microsoft SQL Server |
+      Agile & Collaboration: Scrum, Agile Methodologies, Jira, Confluence 
